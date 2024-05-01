@@ -1,0 +1,32 @@
+C:\Users\Roma\Documents\Навчання\ООП\TCPFileReceiver\obj\Debug\net8.0-windows\TCPFileReceiver.Form1.resources
+C:\Users\Roma\Documents\Навчання\ООП\TCPFileReceiver\obj\Debug\net8.0-windows\TCPFileReceiver.csproj.GenerateResource.cache
+C:\Users\Roma\Documents\Навчання\ООП\TCPFileReceiver\obj\Debug\net8.0-windows\TCPFileReceiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roma\Documents\Навчання\ООП\TCPFileReceiver\obj\Debug\net8.0-windows\TCPFileReceiver.AssemblyInfoInputs.cache
+C:\Users\Roma\Documents\Навчання\ООП\TCPFileReceiver\obj\Debug\net8.0-windows\TCPFileReceiver.AssemblyInfo.cs
+C:\Users\Roma\Documents\Навчання\ООП\TCPFileReceiver\obj\Debug\net8.0-windows\TCPFileReceiver.csproj.CoreCompileInputs.cache
+C:\Users\Roma\Documents\Навчання\ООП\TCPFileReceiver\bin\Debug\net8.0-windows\TCPFileReceiver.exe
+C:\Users\Roma\Documents\Навчання\ООП\TCPFileReceiver\bin\Debug\net8.0-windows\TCPFileReceiver.deps.json
+C:\Users\Roma\Documents\Навчання\ООП\TCPFileReceiver\bin\Debug\net8.0-windows\TCPFileReceiver.runtimeconfig.json
+C:\Users\Roma\Documents\Навчання\ООП\TCPFileReceiver\bin\Debug\net8.0-windows\TCPFileReceiver.dll
+C:\Users\Roma\Documents\Навчання\ООП\TCPFileReceiver\bin\Debug\net8.0-windows\TCPFileReceiver.pdb
+C:\Users\Roma\Documents\Навчання\ООП\TCPFileReceiver\obj\Debug\net8.0-windows\TCPFileReceiver.dll
+C:\Users\Roma\Documents\Навчання\ООП\TCPFileReceiver\obj\Debug\net8.0-windows\refint\TCPFileReceiver.dll
+C:\Users\Roma\Documents\Навчання\ООП\TCPFileReceiver\obj\Debug\net8.0-windows\TCPFileReceiver.pdb
+C:\Users\Roma\Documents\Навчання\ООП\TCPFileReceiver\obj\Debug\net8.0-windows\TCPFileReceiver.genruntimeconfig.cache
+C:\Users\Roma\Documents\Навчання\ООП\TCPFileReceiver\obj\Debug\net8.0-windows\ref\TCPFileReceiver.dll
+C:\Users\Roma\Desktop\ПР16 в1\bin\Debug\net8.0-windows\TCPFileReceiver.exe
+C:\Users\Roma\Desktop\ПР16 в1\bin\Debug\net8.0-windows\TCPFileReceiver.deps.json
+C:\Users\Roma\Desktop\ПР16 в1\bin\Debug\net8.0-windows\TCPFileReceiver.runtimeconfig.json
+C:\Users\Roma\Desktop\ПР16 в1\bin\Debug\net8.0-windows\TCPFileReceiver.dll
+C:\Users\Roma\Desktop\ПР16 в1\bin\Debug\net8.0-windows\TCPFileReceiver.pdb
+C:\Users\Roma\Desktop\ПР16 в1\obj\Debug\net8.0-windows\TCPFileReceiver.Form1.resources
+C:\Users\Roma\Desktop\ПР16 в1\obj\Debug\net8.0-windows\TCPFileReceiver.csproj.GenerateResource.cache
+C:\Users\Roma\Desktop\ПР16 в1\obj\Debug\net8.0-windows\TCPFileReceiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roma\Desktop\ПР16 в1\obj\Debug\net8.0-windows\TCPFileReceiver.AssemblyInfoInputs.cache
+C:\Users\Roma\Desktop\ПР16 в1\obj\Debug\net8.0-windows\TCPFileReceiver.AssemblyInfo.cs
+C:\Users\Roma\Desktop\ПР16 в1\obj\Debug\net8.0-windows\TCPFileReceiver.csproj.CoreCompileInputs.cache
+C:\Users\Roma\Desktop\ПР16 в1\obj\Debug\net8.0-windows\TCPFileReceiver.dll
+C:\Users\Roma\Desktop\ПР16 в1\obj\Debug\net8.0-windows\refint\TCPFileReceiver.dll
+C:\Users\Roma\Desktop\ПР16 в1\obj\Debug\net8.0-windows\TCPFileReceiver.pdb
+C:\Users\Roma\Desktop\ПР16 в1\obj\Debug\net8.0-windows\TCPFileReceiver.genruntimeconfig.cache
+C:\Users\Roma\Desktop\ПР16 в1\obj\Debug\net8.0-windows\ref\TCPFileReceiver.dll
