@@ -1,0 +1,16 @@
+C:\Users\Roma\Documents\Навчання\ООП\ПР13 в1\bin\Debug\net8.0-windows\ПР13 в1.exe
+C:\Users\Roma\Documents\Навчання\ООП\ПР13 в1\bin\Debug\net8.0-windows\ПР13 в1.deps.json
+C:\Users\Roma\Documents\Навчання\ООП\ПР13 в1\bin\Debug\net8.0-windows\ПР13 в1.runtimeconfig.json
+C:\Users\Roma\Documents\Навчання\ООП\ПР13 в1\bin\Debug\net8.0-windows\ПР13 в1.dll
+C:\Users\Roma\Documents\Навчання\ООП\ПР13 в1\bin\Debug\net8.0-windows\ПР13 в1.pdb
+C:\Users\Roma\Documents\Навчання\ООП\ПР13 в1\obj\Debug\net8.0-windows\ПР13_в1.Form1.resources
+C:\Users\Roma\Documents\Навчання\ООП\ПР13 в1\obj\Debug\net8.0-windows\ПР13 в1.csproj.GenerateResource.cache
+C:\Users\Roma\Documents\Навчання\ООП\ПР13 в1\obj\Debug\net8.0-windows\ПР13 в1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roma\Documents\Навчання\ООП\ПР13 в1\obj\Debug\net8.0-windows\ПР13 в1.AssemblyInfoInputs.cache
+C:\Users\Roma\Documents\Навчання\ООП\ПР13 в1\obj\Debug\net8.0-windows\ПР13 в1.AssemblyInfo.cs
+C:\Users\Roma\Documents\Навчання\ООП\ПР13 в1\obj\Debug\net8.0-windows\ПР13 в1.csproj.CoreCompileInputs.cache
+C:\Users\Roma\Documents\Навчання\ООП\ПР13 в1\obj\Debug\net8.0-windows\ПР13 в1.dll
+C:\Users\Roma\Documents\Навчання\ООП\ПР13 в1\obj\Debug\net8.0-windows\refint\ПР13 в1.dll
+C:\Users\Roma\Documents\Навчання\ООП\ПР13 в1\obj\Debug\net8.0-windows\ПР13 в1.pdb
+C:\Users\Roma\Documents\Навчання\ООП\ПР13 в1\obj\Debug\net8.0-windows\ПР13 в1.genruntimeconfig.cache
+C:\Users\Roma\Documents\Навчання\ООП\ПР13 в1\obj\Debug\net8.0-windows\ref\ПР13 в1.dll

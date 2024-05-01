@@ -1,0 +1,14 @@
+C:\Users\Roma\Documents\Навчання\ООП\ПР15 в1\bin\Debug\net8.0\ПР15 в1.exe
+C:\Users\Roma\Documents\Навчання\ООП\ПР15 в1\bin\Debug\net8.0\ПР15 в1.deps.json
+C:\Users\Roma\Documents\Навчання\ООП\ПР15 в1\bin\Debug\net8.0\ПР15 в1.runtimeconfig.json
+C:\Users\Roma\Documents\Навчання\ООП\ПР15 в1\bin\Debug\net8.0\ПР15 в1.dll
+C:\Users\Roma\Documents\Навчання\ООП\ПР15 в1\bin\Debug\net8.0\ПР15 в1.pdb
+C:\Users\Roma\Documents\Навчання\ООП\ПР15 в1\obj\Debug\net8.0\ПР15 в1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roma\Documents\Навчання\ООП\ПР15 в1\obj\Debug\net8.0\ПР15 в1.AssemblyInfoInputs.cache
+C:\Users\Roma\Documents\Навчання\ООП\ПР15 в1\obj\Debug\net8.0\ПР15 в1.AssemblyInfo.cs
+C:\Users\Roma\Documents\Навчання\ООП\ПР15 в1\obj\Debug\net8.0\ПР15 в1.csproj.CoreCompileInputs.cache
+C:\Users\Roma\Documents\Навчання\ООП\ПР15 в1\obj\Debug\net8.0\ПР15 в1.dll
+C:\Users\Roma\Documents\Навчання\ООП\ПР15 в1\obj\Debug\net8.0\refint\ПР15 в1.dll
+C:\Users\Roma\Documents\Навчання\ООП\ПР15 в1\obj\Debug\net8.0\ПР15 в1.pdb
+C:\Users\Roma\Documents\Навчання\ООП\ПР15 в1\obj\Debug\net8.0\ПР15 в1.genruntimeconfig.cache
+C:\Users\Roma\Documents\Навчання\ООП\ПР15 в1\obj\Debug\net8.0\ref\ПР15 в1.dll

@@ -1,0 +1,16 @@
+C:\Users\Roma\Documents\Навчання\ООП\CityPopulationApp\obj\Debug\net8.0-windows\CityPopulationApp.Form1.resources
+C:\Users\Roma\Documents\Навчання\ООП\CityPopulationApp\obj\Debug\net8.0-windows\CityPopulationApp.csproj.GenerateResource.cache
+C:\Users\Roma\Documents\Навчання\ООП\CityPopulationApp\obj\Debug\net8.0-windows\CityPopulationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roma\Documents\Навчання\ООП\CityPopulationApp\obj\Debug\net8.0-windows\CityPopulationApp.AssemblyInfoInputs.cache
+C:\Users\Roma\Documents\Навчання\ООП\CityPopulationApp\obj\Debug\net8.0-windows\CityPopulationApp.AssemblyInfo.cs
+C:\Users\Roma\Documents\Навчання\ООП\CityPopulationApp\obj\Debug\net8.0-windows\CityPopulationApp.csproj.CoreCompileInputs.cache
+C:\Users\Roma\Documents\Навчання\ООП\CityPopulationApp\bin\Debug\net8.0-windows\CityPopulationApp.exe
+C:\Users\Roma\Documents\Навчання\ООП\CityPopulationApp\bin\Debug\net8.0-windows\CityPopulationApp.deps.json
+C:\Users\Roma\Documents\Навчання\ООП\CityPopulationApp\bin\Debug\net8.0-windows\CityPopulationApp.runtimeconfig.json
+C:\Users\Roma\Documents\Навчання\ООП\CityPopulationApp\bin\Debug\net8.0-windows\CityPopulationApp.dll
+C:\Users\Roma\Documents\Навчання\ООП\CityPopulationApp\bin\Debug\net8.0-windows\CityPopulationApp.pdb
+C:\Users\Roma\Documents\Навчання\ООП\CityPopulationApp\obj\Debug\net8.0-windows\CityPopulationApp.dll
+C:\Users\Roma\Documents\Навчання\ООП\CityPopulationApp\obj\Debug\net8.0-windows\refint\CityPopulationApp.dll
+C:\Users\Roma\Documents\Навчання\ООП\CityPopulationApp\obj\Debug\net8.0-windows\CityPopulationApp.pdb
+C:\Users\Roma\Documents\Навчання\ООП\CityPopulationApp\obj\Debug\net8.0-windows\CityPopulationApp.genruntimeconfig.cache
+C:\Users\Roma\Documents\Навчання\ООП\CityPopulationApp\obj\Debug\net8.0-windows\ref\CityPopulationApp.dll

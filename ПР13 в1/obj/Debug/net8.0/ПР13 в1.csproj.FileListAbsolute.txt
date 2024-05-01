@@ -1,0 +1,4 @@
+C:\Users\Roma\Documents\Навчання\ООП\ПР13 в1\obj\Debug\net8.0\ПР13 в1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roma\Documents\Навчання\ООП\ПР13 в1\obj\Debug\net8.0\ПР13 в1.AssemblyInfoInputs.cache
+C:\Users\Roma\Documents\Навчання\ООП\ПР13 в1\obj\Debug\net8.0\ПР13 в1.AssemblyInfo.cs
+C:\Users\Roma\Documents\Навчання\ООП\ПР13 в1\obj\Debug\net8.0\ПР13 в1.csproj.CoreCompileInputs.cache

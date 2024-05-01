@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roma\\Documents\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\\u041F\u042011 \u04321\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{625D9F40-F723-4D89-8552-309D756B3CC4}|\u041F\u042011 \u04321.csproj|c:\\users\\roma\\documents\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043E\u043E\u043F\\\u043F\u044011 \u04321\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625D9F40-F723-4D89-8552-309D756B3CC4}|\u041F\u042011 \u04321.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roma\\Documents\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\\u041F\u042011 \u04321\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Roma\\Documents\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041E\u041E\u041F\\\u041F\u042011 \u04321\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:55:28.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
